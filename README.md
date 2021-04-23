@@ -4,6 +4,6 @@
 
 https://github.com/jodycola/frontend-code-bucket ~ React Front-End \
 https://github.com/jodycola/backend-code-bucket ~ Ruby on Rails Back-End \
-~ Website
+https://code-bucket.netlify.app/ ~ Website
 
 Code Bucket is a sandbox environment for web-developers to experiment with code, create new projects or practice techniques.
